@@ -43,3 +43,5 @@ Ethical Considerations
 
 AI-generated facial stimuli were used to avoid privacy and consent concerns associated with real participant photographs.
 All participant data was anonymised prior to analysis.
+
+NB: In order to comply with university ethics, the raw data has not been uploaded to this repository as this is no longer available
